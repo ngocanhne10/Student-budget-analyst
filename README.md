@@ -9,8 +9,6 @@ enters, or explicitly flagged as **unsupported** when the data can't back it
 up. Nothing is presented as fact unless it can be traced back to an actual
 calculation on the dataset.
 
-> Team number / project name / track: _fill in for submission form_
-> Team members: _fill in for submission form_
 
 ## Challenge
 
@@ -32,7 +30,7 @@ exact intended scope.
 **Requirements:** Python 3.9+ and pip.
 
 ```bash
-git clone <your-repo-url>
+git clone: https://github.com/ngocanhne10/Student-budget-analyst
 cd student-budget-analyst
 ```
 
@@ -52,10 +50,6 @@ API keys required.
 ```bash
 streamlit run app.py
 ```
-
-This opens the app in your browser (defaults to `http://localhost:8501`).
-`student_budget_dataset.csv` must stay in the same folder as `app.py` — the
-app loads it by relative path, no database or external service needed.
 
 ## Demo instructions
 
