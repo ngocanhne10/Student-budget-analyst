@@ -32,9 +32,6 @@ exact intended scope.
 ```bash
 git clone: https://github.com/ngocanhne10/Student-budget-analyst
 cd student-budget-analyst
-```
-
-(Or just unzip the submitted project folder and `cd` into it.)
 
 ## Installation
 
