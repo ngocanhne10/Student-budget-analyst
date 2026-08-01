@@ -1,0 +1,71 @@
+student_id,location,week_number,week_start_date,category,type,currency,weekly_target,actual_spend,saving_overhead,num_transactions
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Entertainment,Variable,EUR,30.0,45.0,-15.0,3
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Grocery,Variable,EUR,60.0,72.0,-12.0,4
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Home Necessity,Variable,EUR,20.0,18.0,2.0,2
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Impulsive Buying,Variable,EUR,25.0,58.0,-33.0,5
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Rent,Fixed,EUR,183.98,183.98,0.0,1
+STU001,"Amsterdam, Netherlands",1,2026-06-29,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Entertainment,Variable,EUR,30.0,20.0,10.0,2
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Grocery,Variable,EUR,60.0,55.0,5.0,3
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Home Necessity,Variable,EUR,20.0,12.0,8.0,1
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Impulsive Buying,Variable,EUR,25.0,40.0,-15.0,4
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Rent,Fixed,EUR,183.98,183.98,0.0,1
+STU001,"Amsterdam, Netherlands",2,2026-07-06,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Entertainment,Variable,EUR,30.0,52.0,-22.0,4
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Grocery,Variable,EUR,60.0,68.0,-8.0,4
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Home Necessity,Variable,EUR,20.0,35.0,-15.0,3
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Impulsive Buying,Variable,EUR,25.0,63.0,-38.0,6
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Rent,Fixed,EUR,183.98,183.98,0.0,1
+STU001,"Amsterdam, Netherlands",3,2026-07-13,Subscription,Fixed,EUR,15.0,65.0,-50.0,3
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Entertainment,Variable,EUR,30.0,25.0,5.0,2
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Grocery,Variable,EUR,60.0,58.0,2.0,3
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Home Necessity,Variable,EUR,20.0,15.0,5.0,1
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Impulsive Buying,Variable,EUR,25.0,22.0,3.0,2
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Rent,Fixed,EUR,183.98,183.98,0.0,1
+STU001,"Amsterdam, Netherlands",4,2026-07-20,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Entertainment,Variable,EUR,30.0,18.0,12.0,1
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Grocery,Variable,EUR,60.0,50.0,10.0,3
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Home Necessity,Variable,EUR,20.0,10.0,10.0,1
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Impulsive Buying,Variable,EUR,25.0,15.0,10.0,1
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Rent,Fixed,EUR,183.98,183.98,0.0,1
+STU001,"Amsterdam, Netherlands",5,2026-07-27,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Entertainment,Variable,EUR,25.0,30.0,-5.0,2
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Grocery,Variable,EUR,55.0,60.0,-5.0,3
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Home Necessity,Variable,EUR,18.0,15.0,3.0,1
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Impulsive Buying,Variable,EUR,20.0,35.0,-15.0,4
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Rent,Fixed,EUR,149.49,149.49,0.0,1
+STU002,"Rotterdam, Netherlands",1,2026-06-29,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Entertainment,Variable,EUR,25.0,20.0,5.0,1
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Grocery,Variable,EUR,55.0,50.0,5.0,3
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Home Necessity,Variable,EUR,18.0,12.0,6.0,1
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Impulsive Buying,Variable,EUR,20.0,18.0,2.0,2
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Rent,Fixed,EUR,149.49,149.49,0.0,1
+STU002,"Rotterdam, Netherlands",2,2026-07-06,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Entertainment,Variable,EUR,25.0,40.0,-15.0,3
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Grocery,Variable,EUR,55.0,58.0,-3.0,4
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Home Necessity,Variable,EUR,18.0,25.0,-7.0,2
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Impulsive Buying,Variable,EUR,20.0,30.0,-10.0,3
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Rent,Fixed,EUR,149.49,149.49,0.0,1
+STU002,"Rotterdam, Netherlands",3,2026-07-13,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Entertainment,Variable,EUR,25.0,22.0,3.0,2
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Grocery,Variable,EUR,55.0,52.0,3.0,3
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Home Necessity,Variable,EUR,18.0,10.0,8.0,1
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Impulsive Buying,Variable,EUR,20.0,15.0,5.0,1
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Rent,Fixed,EUR,149.49,149.49,0.0,1
+STU002,"Rotterdam, Netherlands",4,2026-07-20,Subscription,Fixed,EUR,15.0,15.0,0.0,2
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Entertainment,Variable,EUR,25.0,15.0,10.0,1
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Grocery,Variable,EUR,55.0,48.0,7.0,2
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Home Necessity,Variable,EUR,18.0,8.0,10.0,1
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Impulsive Buying,Variable,EUR,20.0,10.0,10.0,1
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Insurance,Fixed,EUR,40.0,40.0,0.0,1
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Rent,Fixed,EUR,149.49,149.49,0.0,1
+STU002,"Rotterdam, Netherlands",5,2026-07-27,Subscription,Fixed,EUR,15.0,15.0,0.0,2
